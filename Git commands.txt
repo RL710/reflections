@@ -1,4 +1,5 @@
 Git commands:
+git clone		//clones repository
 git log			//Zeigt alle Commits
 git diff		//vergleicht zwei commits
 git checkout	//Checkt bei id aus
@@ -17,4 +18,10 @@ git branch new_branch_name
 git checkout new_branch_name
 git show id		//git diff mit parent
 git branch -d branch_name	//delets branch_name
+git push		//uploads to remote (gitHub)
+git pull		//downloads to lokal (from gitHub)
+remote			//shows remotes
+git pull origin master = git fetch origin				//erst sachen laden und lokal mergen
+						 git merge master origin/master
+
 
