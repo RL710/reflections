@@ -6,7 +6,7 @@ When I would work on the project at diffrent places or just to have a cloud-back
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+It is probably a new feature which is not yet ready to be published, also you could be still working on something.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
