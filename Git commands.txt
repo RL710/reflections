@@ -1,0 +1,20 @@
+Git commands:
+git log			//Zeigt alle Commits
+git diff		//vergleicht zwei commits
+git checkout	//Checkt bei id aus
+git init		//initialisiert ein Repository im aktuellen ordner
+git status		//zeigt den status des reps
+git add			//fügt files der staging area hinzu
+git reset		//enfernt files aus der staging area
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+git commit 		//add commit zu den geaddeten dateien
+git diff 		//ohne ids vergleicht working dir. mit staging dir
+git diff — staged 	//vergleicht staging area mit recent commit
+git reset —-hard		//resets not committed changes
+git log --graph --oneline master coins
+git branch new_branch_name
+git checkout new_branch_name
+git show id		//git diff mit parent
+git branch -d branch_name	//delets branch_name
+
